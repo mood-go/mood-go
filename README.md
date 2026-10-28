@@ -1,4 +1,5 @@
 # L'arborescence
+```
 depot-equipe/
 ├── front/                 ← arrive après le module Angular (ng new front, lancé ici)
 ├── back/                  ← arrive en semaine projet Spring Boot (pom.xml dedans)
@@ -10,6 +11,7 @@ depot-equipe/
 ├── .gitignore
 ├── CLAUDE.md   .claude/   ← arrive au module de gestion de projet : les règles de l'équipe pour l'IA
 └── README.md              ← l'arborescence, puis « Lancer le projet »
+```
 
 
 # Lancer le projet
