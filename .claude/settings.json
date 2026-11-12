@@ -6,8 +6,13 @@
       "Bash(git rebase:*)",
       "Bash(git reset:*)",
       "Bash(git merge:*)",
-      "Read(**/.env)",
-      "Edit(**/.env)"
+      "PowerShell(git commit:*)",
+      "PowerShell(git push:*)",
+      "PowerShell(git rebase:*)",
+      "PowerShell(git reset:*)",
+      "PowerShell(git merge:*)",
+      "Read(**/.env*)",
+      "Edit(**/.env*)"
     ],
     "ask": [
       "Edit(**/application.yml)",
