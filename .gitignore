@@ -1,1 +1,5 @@
 .env
+
+# Claude Code : réglages personnels de chaque membre (non partagés)
+.claude/settings.local.json
+CLAUDE.local.md

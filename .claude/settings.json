@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git rebase:*)",
+      "Bash(git reset:*)",
+      "Bash(git merge:*)",
+      "PowerShell(git commit:*)",
+      "PowerShell(git push:*)",
+      "PowerShell(git rebase:*)",
+      "PowerShell(git reset:*)",
+      "PowerShell(git merge:*)",
+      "Read(**/.env*)",
+      "Edit(**/.env*)"
+    ],
+    "ask": [
+      "Edit(**/application.yml)",
+      "Edit(**/application-*.yml)",
+      "Edit(**/docker-compose.yml)",
+      "Edit(**/pom.xml)",
+      "Edit(**/entity/**)",
+      "Edit(**/*.sql)"
+    ]
+  }
+}
